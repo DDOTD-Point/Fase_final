@@ -5,11 +5,11 @@ POSICION_STOCK_MINIMO = 3
 
 #Matriz_Articulos(Código, Nombre, Stock Actual, Stock Mínimo)
 matriz_articulos = [
-    ["1", "Arroz", 12, 11],
-    ["2", "Frijoles", 4, 6],
-    ["3", "Lentejas", 8, 5],
-    ["4", "Arbejas", 9, 10],
-    ["5", "Garbanzos", 2, 6]
+    ["101", "Arroz", 12, 11],
+    ["102", "Frijoles", 4, 6],
+    ["103", "Lentejas", 8, 5],
+    ["104", "Arbejas", 9, 10],
+    ["105", "Garbanzos", 2, 6]
 ]
 
 #Se define la función para calcular la cantidad a pedir
